@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️I am 3rd year CSE student with a keen interest in app development, web development, and DSA!
+🙋‍♂️I am 4th year CSE student with a keen interest in app development, web development, and DSA!
 
 
 ## 🌐 Socials:
